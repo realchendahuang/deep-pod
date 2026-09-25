@@ -4,7 +4,11 @@
 > High-signal podcast notes, engineering insights & mental models for builders.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/deep-pod?style=social)](https://github.com/realchendahuang/deep-pod)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/deep-pod?style=social)](https://github.com/realchendahuang/deep-pod/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/deep-pod)](https://github.com/realchendahuang/deep-pod/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/deep-pod/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
